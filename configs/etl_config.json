@@ -1,0 +1,20 @@
+{
+  "house_data_input_path":"data/input/kc_house_data_sample.csv",
+  "transit_classification_data_input_path": "data/input/Transit_Classification_sample.csv",
+
+  "transit_consideration_distance_in_kms": "5",
+
+  "raw_zone_house_data":"data/raw_zone/house_data/",
+  "raw_zone_transit_data": "data/raw_zone/transit_classification/",
+
+  "trusted_zone_house_data_columns_upper_case": "data/trusted_zone/house_data_column_names_upper_case/",
+  "trusted_zone_transit_with_lat_long": "data/trusted_zone/df_transit_with_lat_lon/",
+
+  "refined_zone_house_transit_distance_calculated": "data/refined_zone/df_distance_calculated/",
+  "refined_zone_houses_with_transit_nearby": "data/refined_zone/houses_with_transit_nearby/",
+
+  "test_house_data_path": "data/test_data/house_data.csv",
+  "test_house_data_test1_path": "data/test_data/house_data_test1.csv"
+
+
+}
